@@ -162,11 +162,15 @@ To distribute the application to professors as a single, offline installer execu
 ## Screenshots
 ### Home
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/a325e1ac-603b-4c81-8e8c-f94b36d0903e" />
+<img width="1920" height="1057" alt="image" src="https://github.com/user-attachments/assets/3285b224-235f-4266-af63-ffd10f27ac55" />
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/0caf88b3-53b2-40ac-8be7-d297b54fc54f" />
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/da352fe6-c6d6-4397-903b-3895a6ec1741" />
+<img width="1920" height="1055" alt="image" src="https://github.com/user-attachments/assets/afb90846-9bf6-4c52-8349-ad7b7b40585e" />
 
 ### Visualizations
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/fab2b475-60ab-465d-a2b1-9a2a8df2d615" />
 <img width="1920" height="1058" alt="image" src="https://github.com/user-attachments/assets/6b3c32af-c5d2-4ed2-8aff-c71dbe6a2afc" />
-<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/0caf88b3-53b2-40ac-8be7-d297b54fc54f" />
+
 
 ### Whiteboards
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/bf36e5b5-35cb-4ceb-8169-ab0799ab33e2" />
