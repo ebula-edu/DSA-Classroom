@@ -21,6 +21,7 @@ Combining the functionality of **VS Code**, **Microsoft PowerPoint**, **Visualgo
 5. [Installation and Running from Source](#installation-and-running-from-source)
 6. [Compiling to Standalone Windows EXE](#compiling-to-standalone-windows-exe)
 7. [Technical Architecture](#technical-architecture)
+8. [Screenshots](#screenshots)
 
 ---
 
@@ -83,7 +84,7 @@ A complete digital whiteboard designed for computer science classrooms.
 * **Automatic Theme Adaptation**: Switching the whiteboard theme between light and dark automatically flips stroke colors (e.g., black lines turn white on dark background and vice-versa) to ensure continuous readability.
 
 ### 📊 DSA Complexity Cheat Sheet Editor
-A persistent reference guide built into the execution tab.
+A persistent reference guide is built into the execution tab.
 * **Custom Rich Text Context Menu**: Right-click anywhere in the table to insert/delete table rows or columns, or create new tables entirely.
 * **Auto-Saving**: Any edits or updates are automatically saved to `~/.dsa_classroom_complexity.html` and persist across application restarts.
 
@@ -107,7 +108,7 @@ A persistent reference guide built into the execution tab.
 * `Mouse Scroll Wheel`: Zoom in / Zoom out of the canvas coordinate center
 * `Shift + Mouse Scroll Wheel` (while items selected): Resize selected items (blocks, circles, text font sizes, images, path scales, and line stroke widths)
 * `Delete`: Delete all selected items from the canvas
-* `Ctrl + V`: Paste image / screenshot from system clipboard onto the canvas
+* `Ctrl + V`: Paste image/screenshot from system clipboard onto the canvas
 * `Left Click + Drag (Select tool)`: Select multiple whiteboard items simultaneously or drag a selected shape
 
 ---
@@ -157,3 +158,12 @@ To distribute the application to professors as a single, offline installer execu
 * **Code Tracing Engine**: Standard `sys.settrace()` execution monitoring. Variable extraction utilizes recursive parsing to serialize graph-like objects (e.g. Nodes referencing other Nodes) and nested collections.
 * **Thread-Safe Streams**: Standard output/error redirected using a custom multi-threaded router class `ThreadRedirector`. It safely routes stream writes to thread-specific execution buffers without interfering with Qt's core logging system or deadlocking the main event loop when streams are `None` (as in compiled `--noconsole` executables).
 * **Whiteboard Drawing Canvas**: Customized `QGraphicsScene` / `QGraphicsView` architecture. Handles custom item boundaries, selection states, custom serialization (exported to JSON `.dsa-wb` file formats, including base64 image streams), and custom event handling.
+
+## Screenshots
+### Home
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/a325e1ac-603b-4c81-8e8c-f94b36d0903e" />
+### Visualizations
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/fab2b475-60ab-465d-a2b1-9a2a8df2d615" />
+### Whiteboards
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/bf36e5b5-35cb-4ceb-8169-ab0799ab33e2" />
+
