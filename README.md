@@ -1,3 +1,5 @@
+<img width="2255" height="1271" alt="dsa" src="https://github.com/user-attachments/assets/38187a77-827e-4eeb-876e-f85d3ed9d69a" />
+
 # DSA Classroom - Offline Visual Teaching Studio
 
 An offline, zero-cloud desktop application designed specifically for computer science professors to teach **Data Structures and Algorithms (DSA)** in university lecture halls.
