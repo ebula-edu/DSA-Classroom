@@ -129,28 +129,7 @@ A persistent reference guide is built into the execution tab.
    python main.py
    ```
 
----
-
-## Compiling to Standalone Windows EXE
-
-To distribute the application to professors as a single, offline installer executable without requiring Python to be pre-installed on the host computer:
-
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
-2. Run the compiler command:
-   ```bash
-   pyinstaller --noconsole --onefile --name="DSA Classroom" --icon=assets/dsa-classroom-logo.ico --add-data "assets;assets" main.py
-   ```
-   * `--noconsole`: Hides the secondary command-prompt console window on startup.
-   * `--onefile`: Bundles the program and all dependencies into a single executable file.
-   * `--icon`: Embeds the custom DSA Classroom logo icon into the compiled executable.
-   * `--add-data`: Bundles the local assets directory inside the virtual environment.
-
-3. Find the compiled `DSA Classroom.exe` in the `dist/` directory.
-
----
+---
 
 ## Technical Architecture
 
