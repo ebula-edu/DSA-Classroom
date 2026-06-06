@@ -166,6 +166,7 @@ To distribute the application to professors as a single, offline installer execu
 ### Visualizations
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/fab2b475-60ab-465d-a2b1-9a2a8df2d615" />
 <img width="1920" height="1058" alt="image" src="https://github.com/user-attachments/assets/6b3c32af-c5d2-4ed2-8aff-c71dbe6a2afc" />
+<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/0caf88b3-53b2-40ac-8be7-d297b54fc54f" />
 
 ### Whiteboards
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/bf36e5b5-35cb-4ceb-8169-ab0799ab33e2" />
